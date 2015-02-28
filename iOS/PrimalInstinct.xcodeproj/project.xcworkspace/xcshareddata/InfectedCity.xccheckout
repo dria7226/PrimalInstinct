@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CC801C2E-D7E0-4D3E-9D40-B1970F0A1EB9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>InfectedCity</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>170DADE8F709423DD20DE39246B917AA2C32DBF7</key>
+		<string>https://github.com/dria7226/PrimalInstinct</string>
+		<key>179ABAF564BD428F49D471BC5F44F58EE7C3C304</key>
+		<string>https://github.com/dria7226/InfectedCity</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOS/InfectedCity.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>170DADE8F709423DD20DE39246B917AA2C32DBF7</key>
+		<string>../../..</string>
+		<key>179ABAF564BD428F49D471BC5F44F58EE7C3C304</key>
+		<string>../../../../InfectedCity</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dria7226/PrimalInstinct</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>170DADE8F709423DD20DE39246B917AA2C32DBF7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>179ABAF564BD428F49D471BC5F44F58EE7C3C304</string>
+			<key>IDESourceControlWCCName</key>
+			<string>InfectedCity</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>170DADE8F709423DD20DE39246B917AA2C32DBF7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PrimalInstinct</string>
+		</dict>
+	</array>
+</dict>
+</plist>
