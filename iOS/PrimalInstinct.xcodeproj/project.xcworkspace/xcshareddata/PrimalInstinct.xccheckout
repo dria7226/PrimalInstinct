@@ -12,6 +12,8 @@
 	<dict>
 		<key>170DADE8F709423DD20DE39246B917AA2C32DBF7</key>
 		<string>https://github.com/dria7226/PrimalInstinct</string>
+		<key>179ABAF564BD428F49D471BC5F44F58EE7C3C304</key>
+		<string>https://github.com/dria7226/InfectedCity</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>iOS/PrimalInstinct.xcodeproj</string>
@@ -19,6 +21,8 @@
 	<dict>
 		<key>170DADE8F709423DD20DE39246B917AA2C32DBF7</key>
 		<string>../../..</string>
+		<key>179ABAF564BD428F49D471BC5F44F58EE7C3C304</key>
+		<string>../../../../InfectedCity</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/dria7226/PrimalInstinct</string>
@@ -28,6 +32,14 @@
 	<string>170DADE8F709423DD20DE39246B917AA2C32DBF7</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>179ABAF564BD428F49D471BC5F44F58EE7C3C304</string>
+			<key>IDESourceControlWCCName</key>
+			<string>InfectedCity</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
